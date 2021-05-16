@@ -1,9 +1,8 @@
-    <img align="left" height="200" src="https://imgur.com/NKsWtHd"/>
+<img align="left" height="150" src="https://i.imgur.com/z61GpZU.png"/>
  
    
       Hi there, I'm Michael!
+      Full Stack Developer
     
-    - Full Stack Developer
     - React, Node, Javascript
-    - Game lover
-    
+    - Deep love for cybersecurity and games
