@@ -7,6 +7,6 @@
       Hi there, I'm Michael!
       Full Stack Developer
     
-    - React, Node, Javascript/Typescript
+    - React, Node, Javascript | Typescript
     - Deep love for cybersecurity and games
     
